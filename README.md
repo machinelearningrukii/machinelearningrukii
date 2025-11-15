@@ -1,105 +1,116 @@
-<h1 align="center">Hi 👋, I'm Rukshan Perera</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Cybersecurity & Cloud Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C0FF&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Rukshan+Perera;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Cloud+%7C+DevOps+%7C+Data+Science;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=machinelearningrukii&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=machinelearningrukii&label=Profile+Views&color=00C4FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- INTRO -->
+## 🌟 About Me  
+🎓 Computer Science Student  
+💻 Full-stack Developer (MERN / Next.js)  
+🔐 Cybersecurity & Cloud Enthusiast  
+🛠 Learning DevOps | Docker | Azure | AWS  
+📚 Passionate about Data Science & AI  
+🎯 Always building, learning, and leveling up  
+
+---
+
+<!-- WAVE -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/waves.svg" width="100%" />
+
+---
+
+## 🚀 Tech Stack  
+### 🧠 **Languages & Core**
 <p align="center">
-  <a href="https://instagram.com/prollynot.rukii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,sql" />
 </p>
 
----
-
-## 🧑‍💻 About Me  
-- 🌱 I’m currently learning **Azure Cloud (AZ-900)** & **Oracle SQL**  
-- 🔐 Interested in **Cybersecurity, DevOps, Cloud Computing, and Data Science**  
-- 💻 I enjoy building **full-stack applications and secure systems**  
-- 🎯 Goal: Become a multi-skilled engineer ready for real-world projects  
-- 📫 Reach me via **GitHub** or **Instagram**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,py,cpp,c,sql,php" />
-</p>
-
-### **Frontend**
-<p align="left">
+### 🎨 **Frontend**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### **Backend & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+### ⚙️ **Backend & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
 
-### **Cloud, DevOps & Security**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,bash,git" />
+### ☁️ **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,bash,git,github,vercel" />
 </p>
 
-### **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,github" />
+### 🧰 **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,notion" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- TROPHIES -->
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=machinelearningrukii&theme=algolia&no-bg=true&column=7" />
+</p>
 
+---
+
+<!-- STATS SECTION -->
+## 📊 GitHub Stats & Activity  
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=machinelearningrukii&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=machinelearningrukii&show_icons=true&theme=react&hide_border=true" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningrukii&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningrukii&theme=react&hide_border=true" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningrukii&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machinelearningrukii&layout=compact&theme=react&hide_border=true" />
 
 </div>
 
+---
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/machinelearningrukii/machinelearningrukii/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- PROJECTS SECTION -->
+## 🚀 Featured Projects  
 
 ### 🔹 **Ralahami LK – Full-Stack Restaurant Platform (MERN)**  
-Full-stack restaurant system with **QR menu**, **Stripe payments**, **real-time order tracking**, and complete CRUD management.
+QR Menu · Stripe Payments · Real-time Order Tracking · Admin Dashboard
 
-### 🔹 **AI-Powered Resume Analyzer**  
-Full-stack ATS analyzer with **NLP keyword detection**, **PDF parsing**, and **automated scoring**.
+### 🔹 **AI-Powered Resume Analyzer (NLP + ATS)**  
+NLP · Keyword Extraction · PDF Parsing · Smart ATS Scoring
 
-### 🔹 **Doctor Schedule Management System (Java)**  
-Appointment & scheduling system built using Java with clean UI and workflow automation.
+### 🔹 **Doctor Schedule Management (Java)**  
+Scheduling System · CRUD · Workflow Automation
 
-### 🔹 **Black Vault E-Commerce Website**  
-Frontend + backend (HTML, CSS, JS, PHP) with cart handling, product management, and basic checkout.
-
----
-
-## 🏅 Current Certifications  
-- 📘 **Microsoft Azure Fundamentals (AZ-900)** *(in progress)*  
-- 🟦 **Oracle Database SQL Certified Associate (1Z0-071)** *(in progress)*  
-- 🟨 **AWS Cloud Practitioner** *(coming soon)*  
-- 🔐 **Google Cybersecurity Professional Certificate** *(planned)*  
-- 🔒 **CompTIA Security+ (SY0-701)** *(planned)*  
+### 🔹 **Black Vault E-Commerce (HTML/CSS/PHP)**  
+Product Listings · Cart System · Basic Checkout
 
 ---
 
-## 🧠 Fun Fact  
-I love learning everything about **technology, security, cloud, and automation** — and I break things only so I can learn how to fix them 😄
-
----
-
-## ⭐ Thank You!
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />  
+<!-- CONNECT -->
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/prollynot.rukii"><img src="https://skillicons.dev/icons?i=instagram" width="50" /></a>
 </p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/gradient-border.png" width="100%" />
+</p>
+
+<h3 align="center">💙 Thanks for visiting! Have a great day ✨</h3>
