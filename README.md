@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Hi 👋, I'm Rukshan Perera</h1>
+<h1 align="center">Hi, I'm Rukshan Perera</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity & Cloud Enthusiast</h3>
 
 <!-- PROFILE VIEWS -->
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌍 Connect With Me  
+## Connect With Me  
 <p align="center">
   <a href="https://instagram.com/prollynot.rukii" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -26,16 +26,16 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 Computer Science Student  
-- 💻 Full-stack developer exploring **React, Next.js, Node.js, SQL, MongoDB**  
-- 🔐 Passionate about **Cybersecurity, DevOps, Cloud, and Data Science**  
-- 📘 Currently studying **Azure (AZ-900)** and **Oracle SQL**  
-- 🚀 Love building secure, modern apps & learning new technologies  
+## About Me
+- Computer Science Student  
+- Full-stack developer exploring **React, Next.js, Node.js, SQL, MongoDB**  
+- Passionate about **Cybersecurity, DevOps, Cloud, and Data Science**  
+- Currently studying **Azure (AZ-900)** and **Oracle SQL**  
+- Love building secure, modern apps & learning new technologies  
 
 ---
 
-# 🛠️ Skills & Technologies
+# Skills & Technologies
 
 ### **Programming & Scripting**
 <p align="center">
@@ -75,30 +75,30 @@
 
 ---
 
-# 🏆 GitHub Achievements
+# GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=machinelearningrukii&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
 </p>
 
 ---
 
-# 🚀 Highlight Projects
+# Highlight Projects
 
-### 🔹 **Ralahami LK – Full-Stack Restaurant Platform**  
+### **Ralahami LK – Full-Stack Restaurant Platform**  
 QR menu · Stripe payments · Real-time tracking · Admin dashboard
 
-### 🔹 **AI Resume Analyzer (NLP + ATS)**  
+### **AI Resume Analyzer (NLP + ATS)**  
 PDF extraction · Keyword analysis · ATS scoring
 
-### 🔹 **Doctor Schedule Management (Java)**  
+### **Doctor Schedule Management (Java)**  
 Appointment scheduling · CRUD system
 
-### 🔹 **Black Vault E-Commerce (PHP)**  
+### **Black Vault E-Commerce (PHP)**  
 Product listings · Cart & checkout workflow
 
 ---
 
-# 🔥 Activity Graph  
+#  Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=machinelearningrukii&theme=react-dark&hide_border=true&area=true" />
 </p>
