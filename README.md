@@ -57,14 +57,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rukshanperera777&show_icons=true&theme=tokyonight" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukshanperera777&layout=compact&theme=tokyonight" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rukshanperera777&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=machinelearningrukii&show_icons=true&theme=tokyonight" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=machinelearningrukii&layout=compact&theme=tokyonight" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=machinelearningrukii&theme=tokyonight" />
 
 </div>
+
 
 ---
 
